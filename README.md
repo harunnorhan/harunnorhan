@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harunnorhan
+- 👋 Hi, I’m Harun Orhan
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin and Android Studio
 - 📫 How to reach me: ce.harunorhan@gmail.com
