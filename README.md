@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin and Android Studio
 - 📫 How to reach me: ce.harunorhan@gmail.com
-- linkedin.com/in/harunnorhan/
+- 🌐 linkedin.com/in/harunnorhan/
 
         
 
