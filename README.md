@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harun Orhan
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin and Android Studio
+- 🌱 I’m currently learning Kotlin, Jetpack Compose
 - 📫 How to reach me: ce.harunorhan@gmail.com
 - 🌐 linkedin.com/in/harunnorhan/
 
